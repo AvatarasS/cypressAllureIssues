@@ -1,5 +1,5 @@
 
-**CypressAllure Issues Review**
+## **CypressAllure Issues Review**
 
 This repository is a review of the [cypressAllure](https://github.com/AvatarasS/cypressAllureIssues.git) project, focusing on identifying potential issues and bad code practices. 
 
