@@ -23,5 +23,6 @@ To set up the project, follow these steps:
 1. Clone the project `git clone https://github.com/AZANIR/cypressAllure.git`
 2. Install Node.js dependencies: `npm i`
 
+## Conclusion 
 
-
+Overall, the [cypressAllure](https://github.com/AvatarasS/cypressAllureIssues.git) project has many issues and bad code practices. By addressing these issues, the project could be improved in terms of organization, clarity, and maintainability.
