@@ -13,11 +13,12 @@ This repository is a review of the [cypressAllure](https://github.com/AvatarasS/
 
 ## Project set up
 
-To set up the project, follow these steps:
+
 
 Clone the project `git clone https://github.com/AvatarasS/cypressAllureIssues.git`
 
 ## Reviewed project set up:
+To set up the project, follow these steps:
 
 1. Clone the project `git clone https://github.com/AZANIR/cypressAllure.git`
 2. Install Node.js dependencies: `npm i`
